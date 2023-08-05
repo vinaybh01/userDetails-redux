@@ -1,0 +1,22 @@
+* {
+  background-color: black;
+  color: whitesmoke;
+  margin: 10px;
+}
+
+.users {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.btns {
+  padding: 10px;
+  font-size: larger;
+}
+
+.flex {
+  display: flex;
+  flex-direction: row;
+}
